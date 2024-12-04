@@ -3,7 +3,7 @@
   <h3 align="center">A backend developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a IT student at <a href="https://dut.udn.vn/" target="_blank">Da Nang University Of Technology</a>(DUT).
+> ✍ I'm a IT student at <a href="https://dut.udn.vn/" target="_blank">Da Nang University Of Technology</a> (DUT).
 
 <br />
 
