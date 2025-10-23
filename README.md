@@ -1,59 +1,77 @@
-<h2 align="center">Hi 👋, I'm Nhất Huy</h2>
-<p align="center">
-  <h3 align="center">A backend developer from Vietnam 🇻🇳 </h3>
-</p>
-
-> ✍ I'm a IT student at <a href="https://dut.udn.vn/" target="_blank">Da Nang University Of Technology</a> (DUT).
-
-<br />
-
-
-
-## 📫 How to reach me:
+<!-- Profile Header -->
+<h1 align="center">👋 Hi there, I'm <span style="color:#179fa3">Nhất Huy</span></h1>
+<h3 align="center">💻 A Passionate Backend Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <a href="https://x.com/1HuyOneZ24" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>
-  </a>
-  <a href="https://www.facebook.com/nguyenhuyone" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/1Huy2409" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:nhathuy2409@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=179fa3&width=435&lines=Backend+Developer;NodeJS+%7C+NestJS+%7C+Express;Java+%7C+Spring+Boot;Loves+Clean+Code+and+System+Design" alt="Typing SVG" />
   </a>
 </p>
 
-## Skills:
+---
+
+### ✍ About Me
+- 🎓 I'm an IT student at [Da Nang University of Technology (DUT)](https://dut.udn.vn/)  
+- ⚙️ I love working with **Node.js**, **NestJS**, and **MongoDB**  
+- 🌱 I’m currently learning **System Design & DevOps (Docker, CI/CD)**  
+- 💬 Ask me about **backend architecture, databases, or deployment**  
+- ⚡ Fun fact: I debug with music 🎧  
+
+---
+
+### 📫 Connect with me
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
-  
+  <a href="https://x.com/1HuyOneZ24"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.facebook.com/nguyenhuyone"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/1Huy2409"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:nhathuy2409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## Activities:
+---
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Huy2409&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=1Huy2409&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🧠 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,mysql,postgresql,mongodb,git,github,linux,docker,postman,vscode,androidstudio&perline=8" />
+</p>
 
+---
+
+### 🚀 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Huy2409&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Huy's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Huy2409&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Huy2409&theme=radical" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1Huy2409&theme=radical" alt="Profile Summary"/>
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=1Huy2409&theme=radical&no-bg=true&margin-w=15" alt="trophies"/>
+</p>
+
+---
+
+### ☕ A Developer’s Vibe
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1Huy2409&color=179fa3&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+⭐️ From [1Huy2409](https://github.com/1Huy2409)
