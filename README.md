@@ -12,7 +12,7 @@
 
 ### ✍ About Me
 - 🎓 I'm an IT student at [Da Nang University of Technology (DUT)](https://dut.udn.vn/)  
-- ⚙️ I love working with **Node.js**, **NestJS**, and **MongoDB**  
+- ⚙️ I love working with **Node.js**, **NestJS**, **MongoDB** and **PostgreSQL** 
 - 🌱 I’m currently learning **System Design & DevOps (Docker, CI/CD)**  
 - 💬 Ask me about **backend architecture, databases, or deployment**  
 - ⚡ Fun fact: I debug with music 🎧  
